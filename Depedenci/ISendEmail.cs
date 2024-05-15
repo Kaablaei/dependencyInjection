@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Depedenci
 {
-    internal interface ISendEmail
+    Public interface ISendEmail
     {
         string SendEmail();
     }
