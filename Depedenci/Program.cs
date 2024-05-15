@@ -2,7 +2,8 @@
 
 
 using Depedenci;
+ISendEmail send = new SendYahoo();
 
-UserManager user = new UserManager();
+UserManager user = new UserManager(send);
 
 Console.WriteLine(user.UpdateAccount());
