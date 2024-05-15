@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\NonDepedenci.csproj|c:\\users\\amaaa\\desktop\\c#\\dependencyinjection\\depedenci\\nondepedenci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\NonDepedenci.csproj|solutionrelative:depedenci\\nondepedenci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\depedenci\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|solutionrelative:depedenci\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\depedenci\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|solutionrelative:depedenci\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\depedenci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|solutionrelative:depedenci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\depedenci\\isendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EE4EBC-A184-4649-B6D0-7DC27FA26F3D}|Depedenci\\Depedenci.csproj|solutionrelative:depedenci\\isendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NonDepedenci.csproj",
+              "DocumentMoniker": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\NonDepedenci.csproj",
+              "RelativeDocumentMoniker": "Depedenci\\NonDepedenci.csproj",
+              "ToolTip": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\NonDepedenci.csproj",
+              "RelativeToolTip": "Depedenci\\NonDepedenci.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T12:47:29.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SendGmail.cs",
+              "DocumentMoniker": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\SendGmail.cs",
+              "RelativeDocumentMoniker": "Depedenci\\SendGmail.cs",
+              "ToolTip": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\SendGmail.cs",
+              "RelativeToolTip": "Depedenci\\SendGmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:03:18.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\Program.cs",
+              "RelativeDocumentMoniker": "Depedenci\\Program.cs",
+              "ToolTip": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\Program.cs",
+              "RelativeToolTip": "Depedenci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:36:00.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\UserManager.cs",
+              "RelativeDocumentMoniker": "Depedenci\\UserManager.cs",
+              "ToolTip": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\UserManager.cs",
+              "RelativeToolTip": "Depedenci\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:09:26.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISendEmail.cs",
+              "DocumentMoniker": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\ISendEmail.cs",
+              "RelativeDocumentMoniker": "Depedenci\\ISendEmail.cs",
+              "ToolTip": "C:\\Users\\amaaa\\Desktop\\C#\\dependencyInjection\\Depedenci\\ISendEmail.cs",
+              "RelativeToolTip": "Depedenci\\ISendEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:01:48.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

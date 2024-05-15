@@ -1,0 +1,14 @@
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\bin\Debug\net8.0\NonDepedenci.exe
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\bin\Debug\net8.0\NonDepedenci.deps.json
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\bin\Debug\net8.0\NonDepedenci.runtimeconfig.json
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\bin\Debug\net8.0\NonDepedenci.dll
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\bin\Debug\net8.0\NonDepedenci.pdb
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\NonDepedenci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\NonDepedenci.AssemblyInfoInputs.cache
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\NonDepedenci.AssemblyInfo.cs
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\NonDepedenci.csproj.CoreCompileInputs.cache
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\NonDepedenci.dll
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\refint\NonDepedenci.dll
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\NonDepedenci.pdb
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\NonDepedenci.genruntimeconfig.cache
+C:\Users\amaaa\Desktop\C#\Depedenci\Depedenci\obj\Debug\net8.0\ref\NonDepedenci.dll
