@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,14 +8,21 @@ namespace Depedenci
 {
     public class UserManager
     {
-        ISendEmail send = new SendGmail();
+        private readonly ISendEmail _send;
+        public UserManager(ISendEmail send)
+        {
+            _send = send;
+        }
+
+
+
         public string ActiveAccount()
         {
-            return send.SendEmail();
+            return _send.SendEmail();
         }
         public string UpdateAccount()
         {
-            return send.SendEmail();
+            return _send.SendEmail();
         }
     }
 }
